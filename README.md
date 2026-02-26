@@ -33,7 +33,3 @@ Accuracy: 0.8897
 - XGBoost
 - CatBoost
 - LightGBM
-
----
-
-## 📂 Project Structure
